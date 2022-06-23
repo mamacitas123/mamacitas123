@@ -5,8 +5,9 @@
 </head>
 <body>
 
-<p>I will display A B C</p>
-<p>I will display &#65; &#66; &#67;</p>
+<h1>My First Emoji</h1>
+
+<p>&#128512;</p>
 
 </body>
 </html>
